@@ -1,6 +1,6 @@
 ADAPT.JS - ADAPTIVE CSS
 
-=====
+=====================================
 
 For more information, see...
 
